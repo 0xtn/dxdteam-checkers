@@ -18,6 +18,11 @@ Yes .. You can see :
 * Remove Duplicates
 * Proxyless (fresh config)
 ```
+*To get it*
+---
+```
+t.me/dxdteam :D
+```
 *using*
 ----
 **Linux**
