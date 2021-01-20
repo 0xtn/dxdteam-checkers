@@ -34,7 +34,6 @@ pip3 install colorama requests
 python3 dxd.py
 ```
 **Windows**
-----
 ```
 install from https://python.org/downloads
 Click on run.cmd 
