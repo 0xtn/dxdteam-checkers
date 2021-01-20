@@ -26,12 +26,13 @@ t.me/dxdteam :D
 *using*
 ----
 **Linux**
-bash```
+```bash
 apt install git python3-pip
 git clone https://github.com/0xtn/dxdteam-checkers
 cd dxdteam-checkers 
 pip3 install colorama requests
-python3 dxd.py```
+python3 dxd.py
+```
 **Windows**
 ----
 ```
