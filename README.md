@@ -1,4 +1,4 @@
-# dxdteam-checkers
+# DxDteam Checkers
 
 *Tool*
 ----
