@@ -21,7 +21,8 @@ Yes .. You can see :
 *To get it*
 ---
 ```
-Link Download : https://t.me/dxdteam/207 ```
+Link Download : https://t.me/dxdteam/207
+```
 *using*
 ----
 **Linux**
