@@ -21,8 +21,7 @@ Yes .. You can see :
 *To get it*
 ---
 ```
-t.me/dxdteam :D
-```
+Link Download : https://t.me/dxdteam/207 ```
 *using*
 ----
 **Linux**
@@ -38,3 +37,4 @@ python3 dxd.py
 install from https://python.org/downloads
 Click on run.cmd 
 ```
+<img src="DxD.png">
